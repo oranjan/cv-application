@@ -1,0 +1,30 @@
+.general-info{
+  display: flex;
+  justify-content: space-between;
+}
+.general-info-left,.general-info-right{
+  
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  width: 48%; /* Adjust as needed */
+  padding: 10px;
+  /* border: 1px solid #ccc; */
+  box-sizing: border-box;
+}
+/* .general-info-display{
+  display: flex;
+  flex-direction: column;
+  margin-left: 50%;
+  align-items:self-end;
+  justify-content:space-around
+} */
+
+.header{
+   display: flex;
+  align-items: center; 
+}
+
+.header h2{
+  margin-right: 10px;
+}
