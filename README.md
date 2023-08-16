@@ -1,4 +1,5 @@
 # React CV Creator App
+## Live site url : https://ranjan-cv-application.netlify.app/
 #Still in development
 This project is part of [The Odin Project](https://www.theodinproject.com/). It's a React-based CV Creator application that allows users to create and customize their CVs. The app makes heavy use of state and props for managing data and components. Vite is used as the build tool for bundling.
 
